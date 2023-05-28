@@ -7,6 +7,10 @@ import Feedback from "./Feedback";
 import Loader from "./Loader";
 import Tech from "./Tech";
 import Works from "./Works";
+import EarthCanvas from "./Earth";
+import BallCanvas from "./Ball";
+import ComputersCanvas from "./Computers";
+import StarsCanvas from "./Stars";
 
 export {
   Hero,
@@ -18,4 +22,8 @@ export {
   Loader,
   Tech,
   Works,
+  EarthCanvas,
+  BallCanvas,
+  ComputersCanvas,
+  StarsCanvas,
 };
